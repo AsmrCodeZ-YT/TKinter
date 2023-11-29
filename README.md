@@ -1,4 +1,4 @@
-# ${TKinter\  {\color{red}CustomTheme}}$
+# ${TKinter\  {\color{red}GUI}}$
 
 $${\color{orange}Asmr  \color{lightblue}C \color{orange}ode \color{lightblue}Z}$$
 
